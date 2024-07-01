@@ -1,2 +1,2 @@
 # Resume
-This repository contains my resume, available HTML formats.
+This repository contains my resume, available in HTML formats.
